@@ -1,0 +1,14 @@
+/APSR.java/1.10/Wed Oct 30 15:49:12 2013//
+/CPSR.java/1.12/Wed Oct  9 16:35:00 2013//
+/HashedCPSR.java/1.2/Fri Oct  4 19:29:00 2013//
+/IPSR.java/1.3/Mon Sep  9 16:36:55 2013//
+/IPredictor.java/1.1/Wed May 15 01:45:30 2013//
+/MemEffCPSR.java/1.2/Wed Oct 30 15:49:12 2013//
+/MemorylessState.java/1.2/Wed Sep 11 12:22:22 2013//
+/MurmurHash3.java/1.1/Wed Oct  2 12:15:53 2013//
+/Predictor.java/1.2/Tue Sep  3 19:46:04 2013//
+/TPSR.java/1.13/Mon Sep 23 14:14:30 2013//
+D/averaging////
+D/components////
+D/exceptions////
+D/obsonly////

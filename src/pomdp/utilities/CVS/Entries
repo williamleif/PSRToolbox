@@ -1,0 +1,33 @@
+/AlphaVector.java/1.1/Thu May 16 19:27:08 2013//
+/ArrayComparator.java/1.1/Thu May 16 19:27:08 2013//
+/ArrayVector.java/1.1/Thu May 16 19:27:08 2013//
+/ArrayVectorFactory.java/1.1/Thu May 16 19:27:08 2013//
+/BeliefMapComparator.java/1.1/Thu May 16 19:27:08 2013//
+/BeliefState.java/1.1/Thu May 16 19:27:08 2013//
+/BeliefStateComparator.java/1.1/Thu May 16 19:27:08 2013//
+/BeliefStateFactory.java/1.1/Thu May 16 19:27:08 2013//
+/BinManager.java/1.1/Thu May 16 19:27:08 2013//
+/EndOfFileException.java/1.1/Thu May 16 19:27:08 2013//
+/ExecutionProperties.java/1.1/Thu May 16 19:27:08 2013//
+/FunctionChange.java/1.1/Thu May 16 19:27:08 2013//
+/HeuristicPolicy.java/1.1/Thu May 16 19:27:08 2013//
+/InvalidModelFileFormatException.java/1.1/Thu May 16 19:27:08 2013//
+/JProf.java/1.1/Thu May 16 19:27:08 2013//
+/LineReader.java/1.1/Thu May 16 19:27:08 2013//
+/Logger.java/1.1/Thu May 16 19:27:08 2013//
+/POMDPLoader.java/1.1/Thu May 16 19:27:08 2013//
+/Pair.java/1.1/Thu May 16 19:27:08 2013//
+/RandomGenerator.java/1.1/Thu May 16 19:27:08 2013//
+/SocketReader.java/1.1/Thu May 16 19:27:08 2013//
+/SparseAlphaVector.java/1.1/Thu May 16 19:27:08 2013//
+/SparseTabularFunction.java/1.1/Thu May 16 19:27:08 2013//
+/StatePQElement.java/1.1/Thu May 16 19:27:08 2013//
+/TabularAlphaVector.java/1.1/Thu May 16 19:27:08 2013//
+/TabularBeliefState.java/1.1/Thu May 16 19:27:08 2013//
+/ValueFunctionEvaluation.java/1.1/Thu May 16 19:27:08 2013//
+D/concurrent////
+D/datastructures////
+D/distance////
+D/factored////
+D/sort////
+D/visualisation////

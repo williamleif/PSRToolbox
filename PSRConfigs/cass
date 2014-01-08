@@ -1,0 +1,5 @@
+SVD_Dimension=5
+Projection_Dimension=50
+Hist_Compress=true
+Max_Test_Length=10
+Max_History_Length=50
