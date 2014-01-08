@@ -18,6 +18,8 @@ ACKNOWLEDGMENTS: Much thanks to Guillame Saulnier for providing his Java random 
 
 USING THE CODE:
 
+Before running anything the libraries in the lib directory must be added to the Java classpath.
+
 The PSRToolbox contains a large set of related Java classes for using PSR-based models for prediction or creating reinforcement learning agents.
 There are many possible use scenarios and the code is not intended as an out-of-the-box package.
 Thus, no simple concrete steps for use can be provided; a general overview of the code structure in the context of a (somewhat) typical use case is provided below.
