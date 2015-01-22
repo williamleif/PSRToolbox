@@ -1,7 +1,9 @@
-PSRToolbox
-==========
+#PSRToolbox
+
 Author: William L Hamilton, McGill University, Reasoning and Learning Lab
 Contact: william.hamilton2@mail.mcgill.ca
+
+# Description
 
 Collection of methods and tools for using PSRs to model dynamical systems and to construct model-based reinforcement learning algorithms. 
 The PSR code optionally uses randomized compression techniques to increase performance (so called "Compressed Predictive State Representations"). 
@@ -14,9 +16,7 @@ Thus I will not be regularly committing to this repo. If you have specific quest
 DISCLAIMER: The code is a both fully functional and a work in progress (as is most research code). As such, I cannot guarantee particular functionality.
 Moreover, the code is not intended for commerical use. Also, it is not intended as an out-of-the-box package and users will likely need to write code to create their required functionality. The code is, in essence, a large library of methods and classes. 
 
-ACKNOWLEDGMENTS: Much thanks to Guillame Saulnier for providing his Java random forests code.
-
-USING THE CODE:
+## Using the code
 
 Before running anything the libraries in the lib directory must be added to the Java classpath.
 
@@ -36,4 +36,6 @@ TPSR is the a standard PSR model, CPSR uses random projections for compression, 
 
 I encourage potential users to contact me directly with specific use cases (as the code-base is quite large), or to refer to the paper cited above.
 
+## Acknowledgements
 
+Much thanks to Guillame Saulnier for providing his Java random forests code.
