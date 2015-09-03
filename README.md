@@ -1,7 +1,9 @@
 #PSRToolbox
 
-Author: William L Hamilton, McGill University, Reasoning and Learning Lab
-Contact: william.hamilton2@mail.mcgill.ca
+Author: William L Hamilton, (previously of McGill University, Reasoning and Learning Lab, currently Stanford University)
+Contact: wleif@stanford.edu
+
+NOTE: I am not longer actively maintaining this repo, but I welcome inquires from people interested in working with the code. 
 
 # Description
 
